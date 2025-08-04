@@ -45,3 +45,10 @@ git push
 --separate branch : day1Branch
 --For creating a new branch
 git checkout -b "day1Branch"
+
+
+>>To switch to an existing branch
+--git checkout day1branch
+
+>>command to clone a particular application
+git clone https://github.com/ACHAUHAN1989/gitLearning.git
