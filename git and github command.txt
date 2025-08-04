@@ -1,0 +1,42 @@
+Git Versin Control
+
+v1
+v2
+v3
+v4
+
+>>It is distributed on cloud.
+>>Collaboration.
+>>Easy for tracking the changes.
+>>Recovery
+
+>>To find hidden folder in Mac
+>>Command + Shift + .
+
+
+>>For the first time need to run the command to configure GITHUB in our system
+git config --global user.name "ACHAUHAN1989"
+git config --global user.email "anuragch02@gmail.com"
+
+
+>>for coloring
+git config --global color.ui auto
+
+
+>>mandatory commands
+git init
+>>for making remote connection for our application
+git remote add origin https://github.com/ACHAUHAN1989/gitLearning.git
+
+
+>>Pull request
+git pull origin main
+git status
+
+
+>>Push request
+git add .
+git status
+git commit -m "commit message"
+git push
+
