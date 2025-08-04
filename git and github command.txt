@@ -40,3 +40,8 @@ git status
 git commit -m "commit message"
 git push
 
+
+>>what if I want to push a file to some other branch then main.
+--separate branch : day1Branch
+--For creating a new branch
+git checkout -b "day1Branch"
